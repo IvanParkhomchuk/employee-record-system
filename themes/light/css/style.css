@@ -1,0 +1,14 @@
+.bi {
+    vertical-align: -.125em;
+    fill: currentColor;
+}
+
+.user-space-between {
+    display: flex;
+    justify-content: space-between;
+}
+
+.tbl th, .tbl td {
+    border: 1px solid black;
+    padding: 3px;
+}
