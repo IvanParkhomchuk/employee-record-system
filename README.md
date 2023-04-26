@@ -1,7 +1,7 @@
 # employee-record-system
 
 Introduction 
-The employee accounting system is a web-based application for easily saving employees to the database and further working with them.
+- The employee accounting system is a web-based application for easily saving employees to the database and further working with them.
 
 Installation & Launch: To install and run the Employee Record System, follow these steps:
 
